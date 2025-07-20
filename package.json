@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "pdfjs-dist": "^4.9.155",
+    "xlsx": "^0.18.5"
+  }
+}
